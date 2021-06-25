@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leon
+comment1.params=nombre\ edad\ hubicacion
+comment1.target=Leon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getHubicacion()
+numComments=3

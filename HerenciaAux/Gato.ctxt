@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gato
+comment1.params=nombre\ edad\ tamanio
+comment1.target=Gato(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=double\ getTamanio()
+numComments=3
